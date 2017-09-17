@@ -10,6 +10,13 @@ Laravel is a colour scheme for Sublime Text 3. It is inspired by the syntax high
 2. Choose *Laravel Colour Scheme* from the list
 3. Select *Laravel* from *UI: Select Color Scheme* from the Command Pallette
 
+### Manual
+
+1. Download the `Laravel.tmTheme` file from GitHub
+2. In Sublime Text, open the Command Pallette (Command + Shift + P on OSX, Ctrl + Shift + P on Windows/Linux) and choose *Browse Packages*.
+3. Place the `Laravel.tmTheme` file into the `User` directory.
+4. Select *Laravel* from *UI: Select Color Scheme* from the Command Pallette
+
 ## Screenshots
 
 ### PHP

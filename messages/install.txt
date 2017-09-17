@@ -1,0 +1,13 @@
+# Laravel colour scheme
+
+Thanks for checking out this theme, based on the style presented in the official Laravel Documentation - https://laravel.com/docs. I hope you enjoy using it!
+
+I've done my best to cover what I consider to be the common syntaxes for Laravel - PHP, HTML/Blade, JavaScript, CSS/SASS/LESS, and Markdown.
+
+This theme also has colours for SublimeLinter and GitGutter.
+
+If you have any suggestions for improvement, feel free to open an issue or pull request.
+
+Twitter: @michaeldyrynda
+GitHub Repo: https://github.com/michaeldyrynda/Laravel.tmTheme
+GitHub Issues: https://github.com/michaeldyrynda/Laravel.tmTheme/issues

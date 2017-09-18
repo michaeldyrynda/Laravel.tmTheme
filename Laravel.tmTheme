@@ -14,9 +14,9 @@
                     <key>foreground</key>
                     <string>#000000</string>
                     <key>invisibles</key>
-                    <string>#000000</string>
+                    <string>#999</string>
                     <key>caret</key>
-                    <string>#000000</string>
+                    <string>#555</string>
 
                     <key>gutter</key>
                     <string>#eeeeee</string>
@@ -24,11 +24,11 @@
                     <string>#999</string>
 
                     <key>guide</key>
-                    <string>#e8e8e8</string>
+                    <string>#ccc</string>
                     <key>stackGuide</key>
-                    <string>#e8e8e8</string>
+                    <string>#ccc</string>
                     <key>activeGuide</key>
-                    <string>#b3b3b3</string>
+                    <string>#555</string>
 
                     <key>lineHighlight</key>
                     <string>#f5f5f5</string>

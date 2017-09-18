@@ -146,7 +146,7 @@
                 <key>name</key>
                 <string>Storage type</string>
                 <key>scope</key>
-                <string>meta.class.php storage.type.class.php | storage.modifier | storage.type, constant.class.php, keyword.operator.type.php, keyword.other.new.php</string>
+                <string>meta.class.php storage.type.class.php | storage.modifier | storage.type, constant.class.php, keyword.operator.type.php, keyword.other.new.php, keyword.other.function.use.php</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -254,7 +254,7 @@
                 <key>name</key>
                 <string>Variable functions (method calls on instance variables)</string>
                 <key>scope</key>
-                <string>variable.function.php, support.function.var.php, support.function.errorfunc.php, support.function.classobj.php, support.function.json.php, support.function.array.php, support.function.network.php, support.function.info.php</string>
+                <string>variable.function.php, support.function.var.php, support.function.errorfunc.php, support.function.classobj.php, support.function.json.php, support.function.array.php, support.function.network.php, support.function.info.php, support.function.string.php</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>

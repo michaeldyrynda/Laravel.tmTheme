@@ -156,6 +156,30 @@
 
             <dict>
                 <key>name</key>
+                <string>Constant declaration</string>
+                <key>scope</key>
+                <string>constant.other.php</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#da654a</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Constant usage</string>
+                <key>scope</key>
+                <string>constant.other.class.php</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#555</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
                 <string>Language variables ($this)</string>
                 <key>scope</key>
                 <string>variable.language.php</string>

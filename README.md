@@ -64,3 +64,5 @@ This colour scheme ought to work with any language in Sublime Text, it has been 
 ## About
 
 Created by [Michael Dyrynda](https://twitter.com/michaeldyrynda). Copyright 2017. MIT Licensed.
+
+Thanks to [Jack McDade](https://twitter.com/jackmcdade) creating the original theme as presented in the docs and [Taylor Otwell](https://twitter.com/taylorotwell) for creating the framework💖

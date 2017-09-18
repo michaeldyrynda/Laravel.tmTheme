@@ -387,7 +387,7 @@
                 <key>name</key>
                 <string>Key/value separator, quotes</string>
                 <key>scope</key>
-                <string>punctuation.separator.key-value, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.section.embedded.begin.blade, punctuation.section.embedded.end.blade</string>
+                <string>punctuation.separator.key-value, punctuation.separator.php, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.section.embedded.begin.blade, punctuation.section.embedded.end.blade</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>

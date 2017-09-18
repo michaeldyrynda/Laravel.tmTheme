@@ -303,7 +303,7 @@
                 <key>name</key>
                 <string>HTML tag name</string>
                 <key>scope</key>
-                <string>entity.name.tag.structure.any.html, entity.name.tag.inline.any.html, entity.name.tag.block.any.html, entity.other.attribute-name.class.html, entity.name.tag.script.html, entity.other.attribute-name.html, meta.tag.inline.a.html, entity.name.tag.style.html, entity.name.tag.other.html, entity.name.tag.html</string>
+                <string>entity.name.tag, entity.other.attribute-name</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -340,6 +340,18 @@
                 <string>Quoted string</string>
                 <key>scope</key>
                 <string>string.quoted.double.html</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#07a</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Entities</string>
+                <key>scope</key>
+                <string>constant.character.entity.html</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>

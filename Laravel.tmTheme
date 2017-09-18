@@ -21,7 +21,7 @@
                     <key>gutter</key>
                     <string>#eeeeee</string>
                     <key>gutterForeground</key>
-                    <string>#b3b3b3</string>
+                    <string>#999</string>
 
                     <key>guide</key>
                     <string>#e8e8e8</string>

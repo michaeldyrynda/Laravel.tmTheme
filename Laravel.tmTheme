@@ -431,6 +431,18 @@
                 </dict>
             </dict>
 
+            <dict>
+                <key>name</key>
+                <string>Quoted PHP strings</string>
+                <key>scope</key>
+                <string>source.php.blade string.quoted.single.php | string.quoted.double.php</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#2e7d32</string>
+                </dict>
+            </dict>
+
             <!-- JavaScript -->
             <dict>
                 <key>name</key>

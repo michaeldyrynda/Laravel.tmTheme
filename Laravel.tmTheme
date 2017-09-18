@@ -371,6 +371,42 @@
                 </dict>
             </dict>
 
+            <dict>
+                <key>name</key>
+                <string>Function call</string>
+                <key>scope</key>
+                <string>source.php.blade support.function.string.php</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#555</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Operators</string>
+                <key>scope</key>
+                <string>source.php.blade keyword.operator</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#555</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Key/value separator, quotes</string>
+                <key>scope</key>
+                <string>source.php.blade</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#555</string>
+                </dict>
+            </dict>
+
             <!-- JavaScript -->
             <dict>
                 <key>name</key>

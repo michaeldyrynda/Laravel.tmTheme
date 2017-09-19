@@ -42,16 +42,16 @@
                     <string>#ffffff</string>
 
                     <key>bracketsForeground</key>
-                    <string>#999</string>
+                    <string>#555</string>
                     <key>bracketsOptions</key>
-                    <string>underline</string>
+                    <string>foreground</string>
                     <key>bracketContentsForeground</key>
-                    <string>#999</string>
+                    <string>#555</string>
                     <key>bracketContentsOptions</key>
-                    <string>underline</string>
+                    <string>foreground</string>
 
                     <key>tagsForeground</key>
-                    <string>#DA564A</string>
+                    <string>#555</string>
                     <key>tagsOptions</key>
                     <string>underline</string>
                 </dict>

@@ -4,7 +4,7 @@ Laravel is a colour scheme for Sublime Text 3. It is inspired by the syntax high
 
 ## Installation
 
-### Package Control (coming soon, waiting PR to be merged)
+### Package Control
 
 1. Open the Command Pallette (Command + Shift + P on OSX, Ctrl + Shift + P on Windows/Linux) and choose *Install Package*
 2. Choose *Laravel Colour Scheme* from the list

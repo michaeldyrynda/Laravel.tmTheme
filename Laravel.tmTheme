@@ -146,7 +146,7 @@
                 <key>name</key>
                 <string>Storage type</string>
                 <key>scope</key>
-                <string>meta.class.php storage.type.class.php | storage.modifier | storage.type, constant.class.php, keyword.operator.type.php, keyword.other.new.php, keyword.other.function.use.php</string>
+                <string>meta.class.php storage.type.class.php | storage.modifier | storage.type, constant.class.php, keyword.operator.type.php, keyword.other.new.php, keyword.other.function.use.php, keyword.operator.logical.php, keyword.operator.comparison.php</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>

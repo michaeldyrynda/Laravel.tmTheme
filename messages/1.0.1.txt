@@ -1,0 +1,9 @@
+# Laravel Colour Scheme 1.0.1
+
+- Improvements for rendering inline PHP in Blade templates
+- Additional scoping for PHP class constant declaration and usage
+- Better handling for closure syntax
+- Additional scoping for various PHP function types
+- Consistent rendering of single and double quote strings in HTML/Blade
+- Broaden HTML tag, punctuation separators scopes
+- Thanks to Jack McDade and Taylor Otwell for the design inspiration

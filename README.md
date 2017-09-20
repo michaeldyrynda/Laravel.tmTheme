@@ -47,6 +47,10 @@ Laravel is a colour scheme for Sublime Text 3. It is inspired by the syntax high
 
 ![XML syntax highlighting](/previews/xml.png)
 
+### Diff
+
+![Diff syntax highlighting](/previews/diff.png)
+
 ## Supported languages
 
 This colour scheme ought to work with any language in Sublime Text, it has been specifically built and tested against languages common to development with Laravel.
@@ -58,6 +62,7 @@ This colour scheme ought to work with any language in Sublime Text, it has been 
 * JSON
 * XML
 * Markdown
+* Diff
 * [GitGutter](https://packagecontrol.io/packages/GitGutter)
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
 

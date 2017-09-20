@@ -1001,6 +1001,129 @@
                     <string>#DDB700</string>
                 </dict>
             </dict>
+
+            <!-- Diff -->
+            <dict>
+                <key>name</key>
+                <string>Diff</string>
+                <key>scope</key>
+                <string>source.diff</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#555</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>From-file header punctuation (---)</string>
+                <key>scope</key>
+                <string>source.diff meta.diff.header.from-file punctuation.definition.from-file.diff</string>
+                <key>settings</key>
+                <dict>
+                    <key>background</key>
+                    <string>#fcf3f2</string>
+                    <key>foreground</key>
+                    <string>#da654a</string>
+                    <key>fontStyle</key>
+                    <string>bold</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>From-file header</string>
+                <key>scope</key>
+                <string>source.diff meta.diff.header.from-file</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#da654a</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>To-file header punctuation (+++)</string>
+                <key>scope</key>
+                <string>source.diff meta.diff.header.to-file punctuation.definition.to-file.diff</string>
+                <key>settings</key>
+                <dict>
+                    <key>background</key>
+                    <string>#f8fcf8</string>
+                    <key>foreground</key>
+                    <string>#2e7d32</string>
+                    <key>fontStyle</key>
+                    <string>bold</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>To-file header</string>
+                <key>scope</key>
+                <string>source.diff meta.diff.header.to-file</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#2e7d32</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Diff range</string>
+                <key>scope</key>
+                <string>source.diff meta.diff.range</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#4ea1df</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Deleted line</string>
+                <key>scope</key>
+                <string>source.diff markup.deleted.diff</string>
+                <key>settings</key>
+                <dict>
+                    <key>background</key>
+                    <string>#fcf3f2</string>
+                    <key>foreground</key>
+                    <string>#da654a</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Inserted line</string>
+                <key>scope</key>
+                <string>source.diff markup.inserted.diff</string>
+                <key>settings</key>
+                <dict>
+                    <key>background</key>
+                    <string>#f8fcf8</string>
+                    <key>foreground</key>
+                    <string>#2e7d32</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Changed line</string>
+                <key>scope</key>
+                <string>source.diff markup.changed.diff</string>
+                <key>settings</key>
+                <dict>
+                    <key>background</key>
+                    <string>#f5fcff</string>
+                    <key>foreground</key>
+                    <string>#07a</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

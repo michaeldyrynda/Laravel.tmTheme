@@ -61,11 +61,13 @@
                 <key>name</key>
                 <string>Comment</string>
                 <key>scope</key>
-                <string>comment</string>
+                <string>comment, comment.block.documentation.phpdoc.php</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
                     <string>#999</string>
+                    <key>fontStyle</key>
+                    <string>italic</string>
                 </dict>
             </dict>
 

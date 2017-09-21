@@ -496,9 +496,9 @@
 
             <dict>
                 <key>name</key>
-                <string>Object accessor</string>
+                <string>Punctuation</string>
                 <key>scope</key>
-                <string>punctuation.accessor.js, punctuation.section.block.js, punctuation.section.group.js, punctuation.section.group.begin.js, punctuation.section.group.end.js</string>
+                <string>punctuation.accessor.js, punctuation.section.block.js, punctuation.section.group.js, punctuation.section.group.begin.js, punctuation.section.group.end.js, punctuation.separator.comma.js, punctuation.section.brackets.js, meta.object-literal.js</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -522,7 +522,7 @@
                 <key>name</key>
                 <string>this, builtin class</string>
                 <key>scope</key>
-                <string>variable.language.this.js, support.class.builtin.js</string>
+                <string>variable.language.this.js, support.class.builtin.js, constant.numeric.js, constant.language.null.js</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -534,7 +534,7 @@
                 <key>name</key>
                 <string>Variable function</string>
                 <key>scope</key>
-                <string>variable.function.js</string>
+                <string>variable.function.js, variable.parameter.function.js, entity.name.function.js, meta.property.object.js</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -547,6 +547,18 @@
                 <string>Object</string>
                 <key>scope</key>
                 <string>meta.function-call.js variable.function.js, variable.other.readwrite.js</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#07a</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Conditionals</string>
+                <key>scope</key>
+                <string>keyword.control.conditional.js</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>

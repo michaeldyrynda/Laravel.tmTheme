@@ -21,35 +21,35 @@ Laravel is a colour scheme for Sublime Text 3. It is inspired by the syntax high
 
 ### PHP
 
-![PHP syntax highlighting](/previews/php.png)
+![PHP syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/php.png)
 
 ### HTML/Blade
 
-![HTML syntax highlighting](/previews/html.png)
+![HTML syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/html.png)
 
-![Blade syntax highlighting](/previews/blade.png)
+![Blade syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/blade.png)
 
 ### CSS/LESS/SASS
 
-![CSS/LESS/SASS syntax highlighting](/previews/scss.png)
+![CSS/LESS/SASS syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/scss.png)
 
 ### JavaScript/Vue
 
-![JavaScript syntax highlighting](/previews/javascript.png)
+![JavaScript syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/javascript.png)
 
-![Vue syntax highlighting](/previews/vue.png)
+![Vue syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/vue.png)
 
 ### JSON
 
-![JSON syntax highlighting](/previews/json.png)
+![JSON syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/json.png)
 
 ### XML
 
-![XML syntax highlighting](/previews/xml.png)
+![XML syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/xml.png)
 
 ### Diff
 
-![Diff syntax highlighting](/previews/diff.png)
+![Diff syntax highlighting](https://raw.githubusercontent.com/michaeldyrynda/Laravel.tmTheme/master/previews/diff.png)
 
 ## Supported languages
 

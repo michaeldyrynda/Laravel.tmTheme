@@ -824,6 +824,43 @@
                 </dict>
             </dict>
 
+            <!-- SQL -->
+            <dict>
+                <key>name</key>
+                <string>Keywords</string>
+                <key>scope</key>
+                <string>source.sql</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#07a</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>Star operator</string>
+                <key>scope</key>
+                <string>keyword.operator.star.sql</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#da564a</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>String punctuation</string>
+                <key>scope</key>
+                <string>punctuation.definition.string.begin.sql, punctuation.definition.string.end.sql</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#999</string>
+                </dict>
+            </dict>
+
             <!-- Markdown -->
             <dict>
                 <key>name</key>

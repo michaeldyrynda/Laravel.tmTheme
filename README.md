@@ -56,6 +56,7 @@ Laravel is a colour scheme for Sublime Text 3. It is inspired by the syntax high
 This colour scheme ought to work with any language in Sublime Text, it has been specifically built and tested against languages common to development with Laravel.
 
 * PHP
+* MySQL
 * HTML/Blade
 * JavaScript/Vue
 * CSS/Sass/SCSS/Less

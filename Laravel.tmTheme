@@ -232,7 +232,7 @@
                 <key>name</key>
                 <string>Language constants, numbers, booleans, etc.</string>
                 <key>scope</key>
-                <string>constant.numeric.php, constant.language.php</string>
+                <string>constant.numeric.php, constant.language.php, support.constant.std.php</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -256,7 +256,7 @@
                 <key>name</key>
                 <string>Variable functions (method calls on instance variables)</string>
                 <key>scope</key>
-                <string>variable.function.php, support.function.var.php, support.function.errorfunc.php, support.function.classobj.php, support.function.json.php, support.function.array.php, support.function.network.php, support.function.info.php, support.function.string.php, support.function.math.php, support.function.datetime.php</string>
+                <string>variable.function.php, support.function.var.php, support.function.errorfunc.php, support.function.classobj.php, support.function.json.php, support.function.array.php, support.function.network.php, support.function.info.php, support.function.string.php, support.function.math.php, support.function.datetime.php, support.function.file.php</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
